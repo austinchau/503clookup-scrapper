@@ -1,0 +1,10 @@
+{
+  "name": "503clookup",
+  "version": "0.1.0",
+  "main": "./main",
+  "dependencies": {
+    "async": "~0.2.10",
+    "jsdom": "~0.10.1",
+    "request": "~2.34.0"
+  }
+}
